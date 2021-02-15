@@ -1,6 +1,6 @@
 # Hyper Model
 
-Hyper Model helps take Machine Learning to production.
+Hyper Model helps take Machine Learning to production, created by [Growing Data](https://growingdata.com.au).
 
 Hyper Model takes an opinionated and simple approach to the deployment, testing and monitoring of Machine Learning models, leveraging Kubernetes and Kubeflow to do all the important work.
 
@@ -333,3 +333,7 @@ pip install -e ,
 ```
 
 Set Visual Studio Code to use the newly created `hml-dev` environment
+
+## About Growing Data
+
+Growing Data is a Melbourne based consultancy, focussed on [AI & Machine Learning](https://growingdata.com.au/data-services/ai-and-machine-learning/), [Data Engineering](https://growingdata.com.au/data-services/data-engineering/) and [Data Strategy & Governance](https://growingdata.com.au/data-services/data-strategy/).
