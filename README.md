@@ -6,7 +6,7 @@ Hyper Model takes an opinionated and simple approach to the deployment, testing 
 
 # API Documentation
 
-API / SDK documentation for Hyper Model is available at https://docs.hypermodel.com/en/latest/
+API / SDK documentation for Hyper Model is available at https://growing-data-hyper-model.readthedocs-hosted.com/en/latest/
 
 # Getting started
 
